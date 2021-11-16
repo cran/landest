@@ -20,9 +20,6 @@ License: \tab GPL\cr
 }
 \author{
 Layla Parast
-
-Maintainer: Layla Parast <parast@rand.org>
-%~~ The author and/or maintainer of the package ~~
 }
 \references{
 Kaplan, E. L., & Meier, P. (1958). Nonparametric estimation from incomplete observations. Journal of the American Statistical Association, 53(282), 457-481.
@@ -31,7 +28,7 @@ Xie, J., & Liu, C. (2005). Adjusted Kaplan-Meier estimator and log-rank test wit
 
 Parast, L., Tian, L., & Cai, T. (2014). Landmark Estimation of Survival and Treatment Effect in a Randomized Clinical Trial. Journal of the American Statistical Association, 109(505), 384-394.
 
-Parast, L. & Griffin B.A. (2015). Landmark Estimation of Survival and Treatment Effects in Observational Studies, in press.
+Parast, L. & Griffin B.A. (2017). Landmark Estimation of Survival and Treatment Effects in Observational Studies. Lifetime Data Analysis, 23:161-182.
 
 }
 

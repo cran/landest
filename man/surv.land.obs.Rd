@@ -63,7 +63,7 @@ A list is returned:
 \item{perturb.vector}{a vector of size x where x is the number of columns of the provided weight.perturb matrix (or x=500 if weight.perturb is not provided); the perturbed values of \eqn{\hat{S}(t)}; if perturb.vector = TRUE and either var=TRUE or conf.int = TRUE}
 }
 \references{
-Parast, L. & Griffin B.A. (2015). Landmark Estimation of Survival and Treatment Effects in Observational Studies, in press.
+Parast, L. & Griffin B.A. (2017). Landmark Estimation of Survival and Treatment Effects in Observational Studies. Lifetime Data Analysis, 23:161-182.
 }
 \author{
 Layla Parast
