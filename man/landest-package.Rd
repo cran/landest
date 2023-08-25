@@ -8,16 +8,8 @@ Survival and treatment effect estimation
 \description{
 Provides functions to estimate the probability of survival past some specified time and the treatment effect, defined as the difference in survival at the specified time, using Kaplan-Meier estimation, landmark estimation for a randomized trial setting, inverse probability of treatment weighted (IPTW) Kaplan-Meier estimation, and landmark estimation for an observational study setting. The landmark estimation approaches provide improved efficiency by incorporating intermediate event information and are robust to model misspecification. The IPTW Kaplan-Meier approach and landmark estimation in an observational study setting approach account for potential selection bias.
 }
-\details{
-\tabular{ll}{
-Package: \tab landest\cr
-Type: \tab Package\cr
-Version: \tab 1.0\cr
-Date: \tab 2015-11-08\cr
-License: \tab GPL\cr
-}
 %~~ An overview of how to use the package, including the most important functions ~~
-}
+
 \author{
 Layla Parast
 }

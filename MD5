@@ -1,4 +1,4 @@
-dc5c5e9301b2040ea33f18ce49d14111 *DESCRIPTION
+ea2ffbfb52d786071640c520e8191541 *DESCRIPTION
 84264a5b16c33c2431af16caa0ffd233 *NAMESPACE
 7557e972eb19fe6a375a24800244d8cd *R/landest_functions.R
 aadf141650b570258f66f879ea220b3d *data/example_obs.RData
@@ -14,7 +14,7 @@ fa2b81e9e431397ee447869b5e3badf2 *man/delta.km.Rd
 6a5119f7c9705d8f4811b4229ed58c89 *man/example_obs.Rd
 a3ed30d133c5bb53ac97da645687304a *man/example_rct.Rd
 88bc209ccc9d5e98a8bb28a148d1583d *man/helper.si.Rd
-598fdeabd898835bafeefe6718f9bf5d *man/landest-package.Rd
+1de37a3467d16f6b15cd6d69c80c9eb3 *man/landest-package.Rd
 b17552c9428645b542ccb036665b6c1a *man/ps.wgt.fun.Rd
 60f216a4deac812d7b4970d38aad28ea *man/surv.iptw.km.Rd
 4cc0c05e06fa93b0cb04d41da3e73709 *man/surv.iptw.km.base.Rd
